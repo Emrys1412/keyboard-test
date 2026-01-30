@@ -1,0 +1,5 @@
+{
+  "name": "Inventory Scanner Replica",
+  "description": "A reproduction of a warehouse inventory scanning interface to test virtual keyboard interactions.",
+  "requestFramePermissions": []
+}
